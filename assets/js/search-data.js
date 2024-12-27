@@ -16,12 +16,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
+        },{id: "nav-consulting",
+          title: "consulting",
+          description: "I offer research design and statistical consulting in the following areas.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/";
+            window.location.href = "/consulting/";
           },
         },{id: "nav-cv",
           title: "cv",
