@@ -17,6 +17,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am currently a post-doctoral research associate in the Department of Biochemistry & Molecular Biology at the University of Georgia. I am a biology education researcher who studies the individual, interpersonal, and contextual variables that support or hinder students' career decision-making, well-being, and persistence in STEM fields
+I am currently a post-doctoral research associate in the Department of Biochemistry & Molecular Biology at the University of Georgia. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am a biology education researcher who studies the individual, interpersonal, and contextual variables that support or hinder students' career decision-making, well-being, and persistence in STEM fields
