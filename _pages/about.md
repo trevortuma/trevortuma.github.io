@@ -9,6 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>Biology Education Researcher</p>
     <p>Department of Biochemistry & Molecular Biology</p>
     <p>University of Georgia</p>
 
